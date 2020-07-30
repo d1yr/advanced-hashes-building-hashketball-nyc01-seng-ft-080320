@@ -6,15 +6,15 @@ def game_hash
     :players => {
       
       :player_name => {
-        :number => ,
-        :shoe => ,
+        :number => {},
+        :shoe => {},
         :stats => {
-        :points => ,
-        :rebounds => ,
-        :assists => ,
-        :steals => ,
-        :blocks => ,
-        :slam_dunks => 
+        :points => {},
+        :rebounds => {},
+        :assists => {},
+        :steals => {},
+        :blocks => {},
+        :slam_dunks => {} 
         }},
     }
   }, :away => {
